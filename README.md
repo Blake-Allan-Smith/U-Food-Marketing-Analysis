@@ -1,4 +1,4 @@
-# U-Food-Marketing-Analysis
+# UFood Marketing Analysis
 ![Tableau Dashboard](Tableau%20Dashboard.png)
 
 ## Project Objectives | Business Questions
