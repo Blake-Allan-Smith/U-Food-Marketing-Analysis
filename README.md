@@ -1,5 +1,5 @@
 # U-Food-Marketing-Analysis
--- Insert dashboard image
+![Tableau Dashboard](Tableau Dashboard.png)
 
 ## Project Objectives | Business Questions
    
